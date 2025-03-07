@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, View} from 'react-native';
+import {Text, View, ScrollView, Image ,TextInput} from 'react-native';
 
 const Hello = () => {
   return (
@@ -14,4 +14,4 @@ const Hello = () => {
   );
 };
 
-export default Hello;
+//export default Hello;
